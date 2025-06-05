@@ -171,8 +171,79 @@ Aller dans outils=> utilisateur et ordinateur Active Directory=> clique droit su
 
 
 
-- intégration du client au serveur
 
+b- Création des GPO 
+
+Aller dans la barre des recherches=> gestions des stratégie de groupe=> 
+
+
+<img width="543" alt="Capture GPO" src="https://github.com/user-attachments/assets/506c0bfd-82b5-4669-8fe4-a05f8ea2eb3d" />
+
+
+Ensuite clique droit sur le domaine=> ensuite créer un un objet GPO dans ce Domaine 
+
+
+<img width="258" alt="Capture nv gp" src="https://github.com/user-attachments/assets/3bc77598-1f29-46b7-b547-139e336c028f" />
+
+
+Nommer le GPO 
+
+
+<img width="212" alt="Capture nex" src="https://github.com/user-attachments/assets/a07cf88a-e844-4248-bec8-17ba421e0a62" />
+
+
+Faire la meme chose pour le reste des GPO 
+
+GPO demandé 
+
+
+<img width="172" alt="Capture CRE GPO" src="https://github.com/user-attachments/assets/2ab7dd76-6683-47b5-916c-fdbdb1688dfa" />
+
+
+
+GPO politique de mot de passe=> apprés installation nous allons le configurer pour obtenir (complexité, longueur)  clic droit dessus => modifier=> configuration ordinateur=>clic sur stratégie=> paramétres Windows=> paramétres securité=> stratégie de compte=> stratégie de mot de passe 
+
+
+
+<img width="314" alt="Capture 2 par secu" src="https://github.com/user-attachments/assets/9a2684fd-f9d7-40a9-949b-c4e9f51071b2" />
+
+
+
+
+
+
+
+<img width="316" alt="Capturess" src="https://github.com/user-attachments/assets/68e36a71-133e-46b9-8fdc-26ead85c6357" />
+
+
+
+
+<img width="288" alt="Capture 8carac" src="https://github.com/user-attachments/assets/35e121ec-9665-47f1-a0f1-c331141acf3f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 3- intégration du client au serveur
+
+ 
   Configurer le VM en réseau interne avant son installation 
 
 
@@ -267,7 +338,6 @@ Tester si les connexion marche entre un utilisateur  le client WIN et le SERVEUR
 
 
 <img width="509" alt="Capture ping new util" src="https://github.com/user-attachments/assets/b068d0c0-8261-4a39-b12f-aad023e31d4e" />
-
 
 
 
