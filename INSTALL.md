@@ -161,14 +161,112 @@ Aller dans outils=> utilisateur et ordinateur Active Directory=> clique droit su
 
 
 
+
+
+
+
+
 <img width="484" alt="Capture grp" src="https://github.com/user-attachments/assets/fd5723e1-3fdf-4d55-bdae-dfa3c40e2adc" />
 
 
 
 
+- intégration du client au serveur
+
+  Configurer le VM en réseau interne avant son installation 
+
+
+  <img width="645" alt="Capture res cli" src="https://github.com/user-attachments/assets/23390c18-4a3a-4dc2-992c-c7aa84da2106" />
+
+
+Sur cette machine je ne vais pas configurer l'adresse ip je vais plutot désactiver les pare-feux parceque la machine a dèja une adresse ip fourni par le DHCP 
+
+ping du serveur vers le client= ici le serveur ne reconnait pas la machine client 
+
+
+<img width="549" alt="Capture ping Serv ver client" src="https://github.com/user-attachments/assets/a3eb6b2b-a6e6-4c68-83e0-92b400b330bf" />
 
 
 
+
+Je dois donc Desactiver les pare-feux pour avoir une connectivité entre les 2 machines faire le ping du serveur vers la machine client 
+
+
+
+<img width="475" alt="Capture desac" src="https://github.com/user-attachments/assets/13e5015c-4735-4b79-9427-d47fbad8ae73" />
+
+
+
+Aprées avoir désactiver les pare-feux la connectivité va marcher 
+
+
+
+<img width="300" alt="Capture ping cli" src="https://github.com/user-attachments/assets/04d7c17d-7086-4c4e-9206-de5d33cedb02" />
+
+
+
+
+
+
+
+
+
+ping du client vers le serveur=> ici la machine du client reconnait le serveur 
+
+
+
+<img width="530" alt="Capture PING serv" src="https://github.com/user-attachments/assets/af8d0310-4b5b-4218-a512-114fd7ffabd2" />
+
+
+
+- Mettre le client au domaine 
+
+
+verifier le beau d'adresse 
+
+<img width="484" alt="Capture DHCP" src="https://github.com/user-attachments/assets/72b2f371-944a-464e-97e4-ba76383a7948" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modification du nom de l'ordinateur au domaine 
+
+
+<img width="375" alt="Capture 1 1" src="https://github.com/user-attachments/assets/2ee45b74-c096-47ae-8441-2cd53c677592" />
+
+
+
+
+
+
+
+integration du client dans le domaine 
+
+
+<img width="439" alt="Capture recup cli srv" src="https://github.com/user-attachments/assets/3218d495-e5e3-4dd5-b32f-d46f4eca4217" />
+
+
+connexion machines nouveau utilisateurs
+
+
+
+
+<img width="546" alt="Capture cl" src="https://github.com/user-attachments/assets/5f8c7dec-721b-4e00-8788-6860b3ed961c" />
+
+
+Tester si les connexion marche entre un utilisateur  le client WIN et le SERVEUR 
+
+
+<img width="509" alt="Capture ping new util" src="https://github.com/user-attachments/assets/b068d0c0-8261-4a39-b12f-aad023e31d4e" />
 
 
 
