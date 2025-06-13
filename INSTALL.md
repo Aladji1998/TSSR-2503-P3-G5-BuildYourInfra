@@ -1,4 +1,6 @@
-## Création des machines 
+Pour la mise en place de mon projet il me faut mettre en place ces éléments suivants 
+
+## 1- Création des machines 
 
 - Utilisation de virtualbox pour la création et configuration des VM 
 
@@ -349,6 +351,37 @@ Tester si les connexion marche entre un utilisateur  le client WIN et le SERVEUR
 
 
 
+## - 5 Mise en place des pare-feu 
+
+Configuration :
+- Nom : FW01
+- Type : pfsense
+- Réseau : 3 interfaces WAN, LAN, DMZ
+	- WAN : @IP dans la plage réseau de la box Internet
+		- Gateway : @IP interne de la box internet
+	- LAN : 10.0.0.254/24
+	- DMZ : 172.16.0.254/24
+
+  1- Configuration des résaux du VM
 
 
- 
+<img width="546" alt="Capture reseaux vm" src="https://github.com/user-attachments/assets/0466f1cf-aa0f-4080-8574-f71995a0c573" />
+
+2- installation de pfsense 
+Interface aprés installation 
+
+
+<img width="379" alt="Capture install pfsence" src="https://github.com/user-attachments/assets/6a0c7d0b-00fd-49af-81b0-03d717c74f3c" />
+
+
+3- Modification des réseaux LAN et DMZ 
+LAN
+
+<img width="372" alt="Capture config LAN" src="https://github.com/user-attachments/assets/6aea5a27-6c36-47e5-ad98-1a6761ec81ec" />
+
+
+DMZ 
+
+<img width="379" alt="Capture config DMZ" src="https://github.com/user-attachments/assets/0807c633-8c41-4929-b52f-aab431ef3e20" />
+
+
