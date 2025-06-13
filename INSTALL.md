@@ -367,7 +367,8 @@ Configuration :
 
 <img width="546" alt="Capture reseaux vm" src="https://github.com/user-attachments/assets/0466f1cf-aa0f-4080-8574-f71995a0c573" />
 
-2- installation de pfsense 
+
+ 
 Interface aprés installation 
 
 
@@ -383,5 +384,24 @@ LAN
 DMZ 
 
 <img width="379" alt="Capture config DMZ" src="https://github.com/user-attachments/assets/0807c633-8c41-4929-b52f-aab431ef3e20" />
+
+
+4-Config final interface
+
+<img width="395" alt="Capture interface 2" src="https://github.com/user-attachments/assets/b554366b-e18d-404b-99dd-40058ca507c7" />
+
+
+
+5- Tester la connexion des réseaux 
+
+Ping lan et DMZ 
+
+<img width="497" alt="Capture ping Reseau LAN DMZ" src="https://github.com/user-attachments/assets/3eb43f76-3382-407e-96cc-8c501c7cfd86" />
+
+
+6- 
+
+
+
 
 
