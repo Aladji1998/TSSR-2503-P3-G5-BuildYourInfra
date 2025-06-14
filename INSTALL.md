@@ -470,3 +470,11 @@ e- Mise en place des régles de pare feu pfsense
 le site c'est coupé solution en cour
   
 <img width="521" alt="Capture coupure connexion pour pfsense" src="https://github.com/user-attachments/assets/0a76ab13-391f-4ab0-a09b-88c9ab2ec71b" />
+
+
+- site bloqué
+
+<img width="508" alt="Capture blocage site" src="https://github.com/user-attachments/assets/2c2ae947-987b-4e47-a7a7-30fd52f68715" />
+
+
+
