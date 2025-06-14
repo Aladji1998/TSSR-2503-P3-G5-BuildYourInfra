@@ -399,7 +399,18 @@ Ping lan et DMZ
 <img width="497" alt="Capture ping Reseau LAN DMZ" src="https://github.com/user-attachments/assets/3eb43f76-3382-407e-96cc-8c501c7cfd86" />
 
 
-6- 
+6- Configuration plateforme pfsense 
+
+
+<img width="506" alt="Capture config pfsense 1" src="https://github.com/user-attachments/assets/9ab3e398-589b-4c13-996b-a5ebb7c23fb0" />
+
+
+
+
+<img width="523" alt="Capture config pfsense 2" src="https://github.com/user-attachments/assets/03dc8e6e-8a85-4290-8a89-ada318462b49" />
+
+
+
 
 
 
