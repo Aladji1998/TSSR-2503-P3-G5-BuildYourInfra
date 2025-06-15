@@ -598,9 +598,6 @@ Pour mon projet je vais utiliser le logiciel 3CXPhone pour pouvoir passer les ap
 
 - Test de connexion des appels
 
-
-
-
 <img width="152" alt="Capture connexion client" src="https://github.com/user-attachments/assets/c66b12cd-7f77-4cd6-9cbc-98222de02720" />
 
 
@@ -612,5 +609,38 @@ Pour mon projet je vais utiliser le logiciel 3CXPhone pour pouvoir passer les ap
 
 
 
-<img width="431" alt="Capture essaye appel" src="https://github.com/user-attachments/assets/3e3d5d7c-a6da-4ed5-bb6b-a259994bec53" />
+
+
+ <img width="431" alt="Capture essaye appel" src="https://github.com/user-attachments/assets/3e3d5d7c-a6da-4ed5-bb6b-a259994bec53" />
+
+
+pour faire les test j'ai aussi utiliser un autre logiciel pour faire les test Zoiper5
+
+
+
+
+<img width="382" alt="Capture client 3" src="https://github.com/user-attachments/assets/3b3371dc-224a-40ce-a2ab-884e48242f7c" />
+
+
+
+
+
+
+<img width="382" alt="Capture cli 3" src="https://github.com/user-attachments/assets/fd9a8d4d-49c1-4a90-b533-c63c889268e9" />
+
+
+
+
+<img width="397" alt="Capture conf cli 3" src="https://github.com/user-attachments/assets/72d9f450-ae0a-426e-93b7-40c8109cfc51" />
+
+
+
+
+
+
+
+- appel du client 3 avec les autres clients 
+
+
+<img width="496" alt="Capture client  appel" src="https://github.com/user-attachments/assets/171cb112-b128-43c1-8238-b3850b04f6ad" />
 
