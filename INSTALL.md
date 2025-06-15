@@ -477,4 +477,59 @@ le site c'est coupé solution en cour
 <img width="508" alt="Capture blocage site" src="https://github.com/user-attachments/assets/2c2ae947-987b-4e47-a7a7-30fd52f68715" />
 
 
+## 6- FreePBX 
+
+VM à créer - FreePBX
+
+Configuration :
+- Nom : IPBX01
+- Type : FreePBX
+- Réseau : @IP fixe => 192.168.1.179 
+
+Tâches :
+- Création de lignes VoIP pour les utilisateurs déjà créer
+- Validation de communication téléphonique VoIP entre 2 clients VoIP sur serveur et client Windows
+
+
+a- Configuration et mise en place du VM
+Configration du réseau 
+
+<img width="447" alt="Capture config réseau" src="https://github.com/user-attachments/assets/4a46e264-6348-483e-920a-37bc2c8ca02a" />
+
+
+b- Fin installation IPBX01 
+
+<img width="419" alt="Capture interface" src="https://github.com/user-attachments/assets/edf12538-fd05-4b83-8821-4dbe95a9a5cf" />
+
+
+c-  Connexion via site avec adresse ip qui affiche l'interface du site 
+
+
+<img width="524" alt="Capture site" src="https://github.com/user-attachments/assets/fd361511-db6e-42af-9a64-6b13adbb93fc" />
+
+
+
+- configuration du site 
+
+
+<img width="589" alt="Capture intface 1" src="https://github.com/user-attachments/assets/575a077a-7d12-4dec-bfcb-ce87558d31a3" />
+
+
+
+
+
+<img width="477" alt="Capture intface 2" src="https://github.com/user-attachments/assets/7f1a9dd8-ec77-4b53-953a-949661c3c0cb" />
+
+
+
+<img width="501" alt="Capture intface 3" src="https://github.com/user-attachments/assets/9edb3c49-b3c8-49f8-81d6-47e2963fc2b7" />
+
+
+
+
+<img width="673" alt="Captureconfig firewal" src="https://github.com/user-attachments/assets/c8f1922f-6634-40cd-b45d-89e8637b9977" />
+
+
+
+
 
