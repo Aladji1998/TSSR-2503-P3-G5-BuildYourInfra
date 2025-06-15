@@ -542,3 +542,75 @@ c-  Connexion via site avec adresse ip qui affiche l'interface du site
 
 <img width="666" alt="Capture inface" src="https://github.com/user-attachments/assets/bc2a30e6-894e-4cfc-b63d-664c01feae08" />
 
+
+
+
+d- Création des lignes VOIP 
+
+- Ajout des postes
+
+
+<img width="652" alt="Capture ajout poste" src="https://github.com/user-attachments/assets/c9ae9158-0681-4378-b51c-1249402c64bf" />
+
+
+
+
+
+- ajout client 
+
+
+<img width="603" alt="Capture poste 1" src="https://github.com/user-attachments/assets/7409d34b-ba0f-4c38-939d-19d9e1c8b5e2" />
+
+
+
+
+<img width="599" alt="Capture client" src="https://github.com/user-attachments/assets/bd069584-8380-443a-9cf0-b239fcc6a200" />
+
+
+
+e- Configuration de 3CXPhone 
+
+Pour mon projet je vais utiliser le logiciel 3CXPhone pour pouvoir passer les appel entre les clients 
+
+
+
+<img width="139" alt="Capture call" src="https://github.com/user-attachments/assets/72d919ea-702a-4599-b1a4-815a91634741" />
+
+
+
+- config client 1 sur 3CXPhone
+
+
+
+<img width="305" alt="Capture 3cx" src="https://github.com/user-attachments/assets/c7d556a1-8d53-4d4c-a760-ea1affc6bbd7" />
+
+
+
+
+- Config client 2
+
+
+
+<img width="234" alt="Capture client 2" src="https://github.com/user-attachments/assets/ac0ae811-db39-45da-bb35-3888e0da95af" />
+
+
+
+
+- Test de connexion des appels
+
+
+
+
+<img width="152" alt="Capture connexion client" src="https://github.com/user-attachments/assets/c66b12cd-7f77-4cd6-9cbc-98222de02720" />
+
+
+
+
+
+
+
+
+
+
+<img width="431" alt="Capture essaye appel" src="https://github.com/user-attachments/assets/3e3d5d7c-a6da-4ed5-bb6b-a259994bec53" />
+
