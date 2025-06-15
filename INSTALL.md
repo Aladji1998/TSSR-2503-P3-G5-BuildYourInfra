@@ -522,7 +522,10 @@ c-  Connexion via site avec adresse ip qui affiche l'interface du site
 
 
 
+
+
 <img width="501" alt="Capture intface 3" src="https://github.com/user-attachments/assets/9edb3c49-b3c8-49f8-81d6-47e2963fc2b7" />
+
 
 
 
@@ -532,4 +535,10 @@ c-  Connexion via site avec adresse ip qui affiche l'interface du site
 
 
 
+<img width="668" alt="Capture config freepbx" src="https://github.com/user-attachments/assets/49fb808c-95b7-452b-a39c-4bf34c9f5d3c" />
+
+
+
+
+<img width="666" alt="Capture inface" src="https://github.com/user-attachments/assets/bc2a30e6-894e-4cfc-b63d-664c01feae08" />
 
