@@ -18,11 +18,34 @@ Le projet porte sur la Construction d’une infrastructure réseau pour une entr
 
 ## Membre du groupe 
 
-pour ce projet je le réalise en solo, je suis à la fois le product Owner, le Technicien, et le Scrum Master et les sprint aussi se feront en solo 
+pour ce projet je l'ai réalisé en solo, je suis à la fois le product Owner, le Technicien, et le Scrum Master et les sprint aussi se feront en solo 
 
 
-## sprint 1 
+## Sprint 1 
 
 | Membre     |     Role   |            Mission            |                       
 |------------|------------|-------------------------------|
 |  Mamadou   |Scrum Master|planification du plan du réseau|
+
+
+
+## Sprint 2
+
+| Membre     |     Role   |            Mission                        |                       
+|------------|------------|-------------------------------------------|
+|  Mamadou   |Scrum Master|Création et organisation des AD et des GPO |
+
+
+## Sprint 3 
+
+
+| Membre     |     Role   |            Mission            |                       
+|------------|------------|-------------------------------|
+|  Mamadou   |Scrum Master|Création VM client Windows 10  |
+
+
+## sprint 5 
+
+| Membre     |     Role   |            Mission              |                       
+|------------|------------|---------------------------------|
+|  Mamadou   |Scrum Master|Création VM pare-feu avec pfsense|
