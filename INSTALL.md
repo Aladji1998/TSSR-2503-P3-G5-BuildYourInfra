@@ -1,4 +1,4 @@
-Pour la mise en place de mon projet il me faut mettre en place ces éléments suivants 
+Pour la mise en place de mon projet j'ai mis en place ces éléments suivants 
 
 ## 1- Création des machines 
 
