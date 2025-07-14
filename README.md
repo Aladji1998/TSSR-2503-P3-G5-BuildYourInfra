@@ -49,3 +49,13 @@ pour ce projet je l'ai réalisé en solo, je suis à la fois le product Owner, l
 | Membre     |     Role   |            Mission              |                       
 |------------|------------|---------------------------------|
 |  Mamadou   |Scrum Master|Création VM pare-feu avec pfsense|
+
+
+
+## sprint 6
+
+| Membre     |     Role   |            Mission              |                       
+|------------|------------|---------------------------------|
+|  Mamadou   |Scrum Master|  Création de FreePBX            |      
+
+
